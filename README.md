@@ -59,7 +59,7 @@
 ### Screenshot 4: ClinVar Variant Record
 * [View Screenshot 4 (ClinVar Variant)](screenshots/04_clinvar_variant.png)
 
-## 6. Variant Mapping and Functional Context (Part F)
+## Variant Mapping and Functional Context 
 
 * **a. Where is the variant located relative to your gene?** The variant is located at genomic coordinate chr19: 11089549, positioned right at the 5' beginning of the LDLR gene.
 * **b. Is it in an exon, intron, UTR, splice region, or another region?** It is located inside an exon (specifically Exon 1 of the transcript models).
@@ -69,3 +69,17 @@
   
 ### Screenshot 5: Variant Position in UCSC
 * [View Screenshot 5 (Selected variant)](screenshots/05_variant_in_ucsc.png)
+
+## Reflection Questions
+
+* **1. What did UCSC show you about your gene that was not obvious from simply reading about the gene's function?**
+  The UCSC Genome Browser visually displayed the exact structural organization of the *LDLR* gene on chromosome 19. While functional summaries explain the gene's biological role, the browser mapped its physical exon-intron structure and precise base-pair coordinates.
+
+* **2. Why is knowing the exact genomic location of a disease-associated variant useful?**
+  Precise genomic coordinates allow researchers to cross-reference variant databases like ClinVar against assemblies like GRCh38. This  context identifies whether a mutation affects a coding region, UTR, or splice site, guiding downstream analysis.
+
+* **3. What is one limitation of predicting a variant's effect only from its genomic location?**
+  Genomic location only provides structural context without confirming the actual functional impact on the gene product. Concluding pathogenicity requires experimental validation, as positional data alone cannot measure cellular phenotype changes.
+
+* **4. What was the most interesting feature you observed about your assigned gene?**
+  It was striking to see how a single-nucleotide substitution (c.1A>T) at the start of Exon 1 disrupts the translation initiation codon (p.Met1Leu). This illustrates how a tiny point mutation at a critical locus can drive a severe genetic disorder like Familial Hypercholesterolemia.
