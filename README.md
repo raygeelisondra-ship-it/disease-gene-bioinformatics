@@ -4,13 +4,10 @@
 * **Assigned Gene:** LDLR (Low-Density Lipoprotein Receptor)
 * **Associated Disease:** Familial Hypercholesterolemia
 
----
-
 ## Assigned Gene and Disease
 * **Official Gene Symbol:** LDLR
 * **Full Gene Name:** Low-Density Lipoprotein Receptor
 * **Associated Disease:** Familial Hypercholesterolemia (characterized by high levels of low-density lipoproteins and premature cardiovascular disease).
-
 
 ## UCSC Gene Location 
 * **Chromosome:** Chromosome 19 (Band 19p13.2)
@@ -21,7 +18,7 @@
 
 ### Screenshot 1: Gene Location in UCSC
 *Description: The UCSC Genome Browser displaying the LDLR gene region on chromosome 19 with visible genomic coordinates and gene symbol.*
-![Gene Location](images/01_gene_location.png)
+![Gene Location](screenshots/01_gene_location.png)
 
 ## Exons, Introns, and Transcripts 
 * **Number of Exons (in selected transcript):** 18 exons
@@ -31,7 +28,7 @@
 
 ### Screenshot 2: Gene Structure and Transcripts
 *Description: Detailed view of the LDLR gene structure showing exon boxes, intron connecting lines, and multiple transcript variants.*
-![Gene Structure](images/02_gene_structure.png)
+![Gene Structure](screenshots/02_gene_structure.png)
 
 ## Genome Browser Tracks 
 * **a. Gene annotation track used:** NCBI RefSeq 
@@ -42,4 +39,4 @@
 
 ### Screenshot 3: Browser Tracks (ClinVar SNVs and Conservation)
 *Description: UCSC Genome Browser view displaying the LDLR gene alongside active ClinVar SNV density and gene models.*
-![Browser Tracks](images/03_tracks.png)
+![Browser Tracks](screenshots/03_tracks.png)
