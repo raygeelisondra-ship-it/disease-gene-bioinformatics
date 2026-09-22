@@ -20,7 +20,7 @@
 
 ### Screenshot 1: Gene Location in UCSC
 *Description: The UCSC Genome Browser displaying the LDLR gene region on chromosome 19 with visible genomic coordinates and gene symbol.*
-* [View screenshot 1 (Gene Location](screenshots/01_gene_location.png)
+* [View screenshot 1 (Gene Location)](screenshots/01_gene_location.png)
 
 
 ## Exons, Introns, and Transcripts 
@@ -47,11 +47,14 @@
 
 ## ClinVar Variant Selection 
 
-* **Gene:** LDLR
-* **Variant HGVS / Description:** NM_000527.5(LDLR):c.1A>T (p.Met1Leu)
-* **Associated Condition / Disease:** Hypercholesterolemia, familial 1
-* **Clinical Significance:** Pathogenic
-* **Review Status:** Reviewed by expert panel (3-star expert panel submission)
+* **a. Gene:** LDLR
+* **b. Variant HGVS / Description:** NM_000527.5(LDLR):c.1A>T (p.Met1Leu)
+* **c. rsID or ClinVar Variation ID/VCV accession:** 250968
+* **d. Chromosome and genomic position:** 19; 11089549 (GRCh38)
+* **e. Associated Condition / Disease:** Hypercholesterolemia, familial 1
+* **f. Clinical Significance:** Pathogenic
+* **g. Review Status:** Reviewed by expert panel (3-star expert panel submission)
+* **h. ClinVar Record URL:** https://www.ncbi.nlm.nih.gov/clinvar/variation/250968/
 
 ### Screenshot 4: ClinVar Variant Record
 * [View Screenshot 4 (ClinVar Variant)](screenshots/04_clinvar_variant.png)
