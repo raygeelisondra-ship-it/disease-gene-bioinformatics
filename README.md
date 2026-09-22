@@ -83,3 +83,8 @@
 
 * **4. What was the most interesting feature you observed about your assigned gene?**
   It was striking to see how a single-nucleotide substitution (c.1A>T) at the start of Exon 1 disrupts the translation initiation codon (p.Met1Leu). This illustrates how a tiny point mutation at a critical locus can drive a severe genetic disorder like Familial Hypercholesterolemia.
+
+## References and Links
+
+* **NCBI ClinVar:** National Center for Biotechnology Information. ClinVar database entry for LDLR variant (c.1A>T) (Variation ID: 250968). Available at: [https://www.ncbi.nlm.nih.gov/clinvar/variation/250968/]
+* **UCSC Genome Browser:** Human (GRCh38/hg38) Assembly, UCSC Genomics Institute. LDLR genomic region (chr19:11,089,463-11,133,820). Available at: [https://genome.ucsc.edu/]
