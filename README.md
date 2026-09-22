@@ -44,3 +44,14 @@
 ### Screenshot 3: Browser Tracks (ClinVar SNVs and Conservation)
 *Description: UCSC Genome Browser view displaying the LDLR gene alongside active ClinVar SNV density and gene models.*
 ![View screenshot 3 (Browser Tracks)](screenshots/03_tracks.png)
+
+## ClinVar Variant Selection 
+
+* **Gene:** LDLR
+* **Variant HGVS / Description:** NM_000527.5(LDLR):c.1A>T (p.Met1Leu)
+* **Associated Condition / Disease:** Hypercholesterolemia, familial 1
+* **Clinical Significance:** Pathogenic
+* **Review Status:** Reviewed by expert panel (3-star expert panel submission)
+
+### Screenshot 4: ClinVar Variant Record
+* [View Screenshot 4 (ClinVar Variant)](screenshots/04_clinvar_variant.png)
