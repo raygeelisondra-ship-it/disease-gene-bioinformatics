@@ -20,7 +20,7 @@
 
 ### Screenshot 1: Gene Location in UCSC
 *Description: The UCSC Genome Browser displaying the LDLR gene region on chromosome 19 with visible genomic coordinates and gene symbol.*
-![View screenshot 1 (Gene Location0](screenshots/01_gene_location.png)
+* [View screenshot 1 (Gene Location0](screenshots/01_gene_location.png)
 
 
 ## Exons, Introns, and Transcripts 
@@ -31,7 +31,7 @@
 
 ### Screenshot 2: Gene Structure and Transcripts
 *Description: Detailed view of the LDLR gene structure showing exon boxes, intron connecting lines, and multiple transcript variants.*
-![View screenshot 2 (Gene Structure)](screenshots/02_gene_structure.png)
+* [View screenshot 2 (Gene Structure)](screenshots/02_gene_structure.png)
 
 
 ## Genome Browser Tracks 
@@ -43,7 +43,7 @@
 
 ### Screenshot 3: Browser Tracks (ClinVar SNVs and Conservation)
 *Description: UCSC Genome Browser view displaying the LDLR gene alongside active ClinVar SNV density and gene models.*
-![View screenshot 3 (Browser Tracks)](screenshots/03_tracks.png)
+* [View screenshot 3 (Browser Tracks)](screenshots/03_tracks.png)
 
 ## ClinVar Variant Selection 
 
