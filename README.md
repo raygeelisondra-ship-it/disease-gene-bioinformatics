@@ -1,6 +1,6 @@
 # Bioinformatics Lab Activity
 
-* **Name:** Ray Gee Jurac Lisondra
+* **Name:** Ray Gee J. Lisondra
 * **Assigned Gene:** LDLR (Low-Density Lipoprotein Receptor)
 * **Associated Disease:** Familial Hypercholesterolemia
 
@@ -58,3 +58,14 @@
 
 ### Screenshot 4: ClinVar Variant Record
 * [View Screenshot 4 (ClinVar Variant)](screenshots/04_clinvar_variant.png)
+
+## 6. Variant Mapping and Functional Context (Part F)
+
+* **a. Where is the variant located relative to your gene?** The variant is located at genomic coordinate chr19: 11089549, positioned right at the 5' beginning of the LDLR gene.
+* **b. Is it in an exon, intron, UTR, splice region, or another region?** It is located inside an exon (specifically Exon 1 of the transcript models).
+* **c. Is it likely in a coding or non-coding region based on the displayed annotations?** Based on the GENCODE and RefSeq annotations, it is in a coding region, specifically affecting the translation initiation codon.
+* **d. Based on its location and ClinVar information, briefly explain how the variant might affect the gene or gene product:** Because the variant alters the starting methionine (Met1) codon of the LDLR gene, it likely disrupts normal translation initiation or results in an unstable, non-functional protein. This leads to receptor deficiency, which causes impaired clearance of LDL cholesterol (the pathological mechanism of familial hypercholesterolemia).
+* **e. What additional evidence would be needed before concluding that the variant causes disease?** Conclusive proof requires functional assays measuring cellular LDL uptake, family co-segregation analysis, and low population allele frequency data.
+  
+### Screenshot 5: Variant Position in UCSC
+* [View Screenshot 5 (Variant Mapping)](screenshots/05_clinvar_variant.png)
