@@ -68,4 +68,4 @@
 * **e. What additional evidence would be needed before concluding that the variant causes disease?** Conclusive proof requires functional assays measuring cellular LDL uptake, family co-segregation analysis, and low population allele frequency data.
   
 ### Screenshot 5: Variant Position in UCSC
-* [View Screenshot 5 (Variant Mapping)](screenshots/05_clinvar_variant.png)
+* [View Screenshot 5 (Selected variant)](screenshots/05_variant_in_ucsc.png)
