@@ -23,8 +23,6 @@
 *Description: The UCSC Genome Browser displaying the LDLR gene region on chromosome 19 with visible genomic coordinates and gene symbol.*
 ![Gene Location](images/01_gene_location.png)
 
----
-
 ## Exons, Introns, and Transcripts 
 * **Number of Exons (in selected transcript):** 18 exons
 * **Multiple Transcripts/Isoforms:** Yes, multiple alternative transcripts and isoforms are visible stacked horizontally below the main reference tracks.
@@ -36,11 +34,12 @@
 ![Gene Structure](images/02_gene_structure.png)
 
 ## Genome Browser Tracks 
-
 * **a. Gene annotation track used:** NCBI RefSeq 
 * **b. ClinVar-related variant marks:** Yes, ClinVar variant marks are visible within and surrounding the gene region.
 * **c. Conservation variation:** Yes, certain regions exhibit noticeably stronger conservation signals than others across species.
 * **d. Conserved region location:** Conserved regions correspond predominantly to coding exons and important functional segments.
 * **e. Significance of conservation:** Strong sequence conservation across species implies that the region is under purifying selection. This suggests that the sequence serves a critical biological function and cannot tolerate random mutations without negative consequences.
 
-
+### Screenshot 3: Browser Tracks (ClinVar SNVs and Conservation)
+*Description: UCSC Genome Browser view displaying the LDLR gene alongside active ClinVar SNV density and gene models.*
+![Browser Tracks](images/03_tracks.png)
