@@ -20,7 +20,7 @@
 
 ### Screenshot 1: Gene Location in UCSC
 *Description: The UCSC Genome Browser displaying the LDLR gene region on chromosome 19 with visible genomic coordinates and gene symbol.*
-* [View screenshot 1 (Gene Location0](screenshots/01_gene_location.png)
+* [View screenshot 1 (Gene Location](screenshots/01_gene_location.png)
 
 
 ## Exons, Introns, and Transcripts 
